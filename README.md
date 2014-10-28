@@ -18,12 +18,8 @@ HTML:
 
 ```html
 <div id='share-email' hidden>
-    <div>
-        <input type="email" placeholder="Email">
-    </div>
+    <input type="email" placeholder="Email">
 </div>
-<div id="share-email-container">
-    <input type="button" value="Share">
-    <div id="add-email"> </div>
-</div>
+<div id="share-email-container"> </div>
+<div id="add-email"> </div>
 ```
