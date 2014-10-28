@@ -16,6 +16,7 @@ listJS.start();
 
 HTML:
 
+```html
 <div id='share-email' hidden>
     <div>
         <input type="email" placeholder="Email">
@@ -25,3 +26,4 @@ HTML:
     <input type="button" value="Share">
     <div id="add-email"> </div>
 </div>
+```
