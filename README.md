@@ -9,14 +9,13 @@ element.
 
 Usage is simple. For the above example, the following code is needed:
 
-Javascript
-##########
+Javascript:
 
 var listJS = ListJS($('#share-email'), $('#add-email'), $('#share-email-container'));
 listJS.start();
 
-HTML
-####
+HTML:
+
 <div id='share-email' hidden>
     <div>
         <input type="email" placeholder="Email">
