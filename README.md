@@ -5,7 +5,7 @@
 ListJS is a simple javascript library that allows you to create lists of an 
 element.
 
-![alt tag](https://raw.github.com/seanpo/listjs/master/img/example.png)
+![alt tag](https://github.com/seanpo/ListJS/blob/master/img/example.PNG)
 
 Usage is simple. For the above example, the following code is needed:
 
