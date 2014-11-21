@@ -11,7 +11,7 @@ Usage is simple. For the above example, the following code is needed:
 
 Javascript:
 
-var listJS = ListJS($('#share-email'), $('#add-email'), $('#share-email-container'));
+var listJS = ListJS($('#share-email'), $('#add-email'), $('#share-email-container'), { maximum: 5 });
 listJS.start();
 
 HTML:
@@ -23,3 +23,7 @@ HTML:
 <div id="share-email-container"> </div>
 <div id="add-email"> </div>
 ```
+
+To get the results as an array:
+
+listJS.getResults();
