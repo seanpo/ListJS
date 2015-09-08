@@ -27,3 +27,11 @@ HTML:
 To get the results as an array:
 
 listJS.getResults();
+
+To reset the results:
+
+listJS.reset();
+
+If you want, you can use Twitter's typeahead to autocomplete.
+
+You just need to import typeahead and provide appropriate options.
